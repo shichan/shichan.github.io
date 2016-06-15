@@ -133,7 +133,7 @@ ul.horizontal-list  li:last-child:after {
   text-align: center;
 }
 
-#resume-header h1 {
+#resume-header h3 {
   text-transform: uppercase;
   font-weight: bold;
   font-family: 'Merriweather', 'Lato';
