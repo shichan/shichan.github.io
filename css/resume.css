@@ -143,8 +143,8 @@ ul.horizontal-list  li:last-child:after {
   color: #8C8A8A;
 }
 
-.section {
-  padding: 20px 0;
+#resume-body {
+  margin: 20px 0;
 }
 
 .section-header {
@@ -214,5 +214,4 @@ ul.horizontal-list  li:last-child:after {
 #contact .contact-text {
   padding: 0 5px;
 }
-
 
